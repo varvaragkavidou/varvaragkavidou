@@ -13,5 +13,5 @@ I am a **Remote Customer Support, Administrative, and Virtual Assistant Speciali
 - GitHub Skills: Introduction to GitHub *(In Progress)*
 
 #### 📫 How to reach me
-- LinkedIn: (https://www.linkedin.com/in/varvara-gkavidou-25663940b/)
+- LinkedIn: https://www.linkedin.com/in/varvara-gkavidou-25663940b/
 - Email: gkavidou.v@gmail.com
