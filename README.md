@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Varvara! 👋
 
-<!--
-**varvaragkavidou/varvaragkavidou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Remote Customer Support, Administrative, and Virtual Assistant Specialist** focused on helping teams stay organized and deliver great customer experiences.
 
-Here are some ideas to get you started:
+#### 🛠️ Tools & Skills
+- **Customer Support & CRM:** HubSpot CRM, Salesforce Basics, Ticket Management
+- **Productivity & Admin:** Google Workspace, Microsoft 365, Scheduling, Data Entry
+- **Collaboration:** Slack, Zoom, Trello, Asana, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📜 Certifications & Training
+- GitLab Remote Foundations *(In Progress)*
+- HubSpot Academy Customer Service & CRM *(In Progress)*
+- GitHub Skills: Introduction to GitHub *(In Progress)*
+
+#### 📫 How to reach me
+- LinkedIn: (https://www.linkedin.com/in/varvara-gkavidou-25663940b/)
+- Email: gkavidou.v@gmail.com
