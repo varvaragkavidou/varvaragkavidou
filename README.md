@@ -8,7 +8,7 @@ I am a **Remote Customer Support, Administrative, and Virtual Assistant Speciali
 - **Collaboration:** Slack, Zoom, Trello, Asana, GitHub
 
 #### 📜 Certifications & Training
-- GitLab Remote Foundations *(In Progress)*
+- - GitHub Skills: Introduction to GitHub *(Completed)*
 - HubSpot Academy Customer Service & CRM *(In Progress)*
 - GitHub Skills: Introduction to GitHub *(In Progress)*
 
